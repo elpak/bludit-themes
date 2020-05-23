@@ -4,7 +4,7 @@
  
 [Live Demo](https://themes.blog7.org/andy/)
 
-Themes.blog7.org - Themes for [Bludit](https://github.com/elpak/bludit-themes) CMS version 3+
+Themes.blog7.org - Themes for [Bludit](https://themes.bludit.com/) CMS version 3+
 
 
 ## Secure & stable, less than 35 kb, top-tier speeds, SEO optimized

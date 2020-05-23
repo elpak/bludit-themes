@@ -18,7 +18,7 @@ We want you to feel confident that the code behind your (or your clients) websit
 Your sites should start with the smallest footprint possible. That’s why a default install with our theme is less than 30kb.
 
 ### TOP-TIER SPEEDS
-Speed is one of the most important aspects of your website. Thanks to our tiny footprint and clean code, we make sure you start off as fast as possible.
+Gets 100/100 points on Google PageSpeed Insights. Speed is one of the most important aspects of your website. Thanks to our tiny footprint and clean code, we make sure you start off as fast as possible.
 
 ### NO DEPENDENCIES
 If it’s not needed, we don’t load it. That includes jQuery, which we ditched for clean, vanilla javascript. No more render blocking issues!

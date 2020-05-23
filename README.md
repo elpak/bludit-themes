@@ -12,7 +12,7 @@ Themes.blog7.org - Themes for [Bludit](https://github.com/elpak/bludit-themes) C
 ### **About Andy**
 
 Andy is a free Bludit theme that focuses on speed and usability. Since the beginning, Andy has aimed to be a lightweight foundation that can tackle any website project. It aims to offer just the right amount of customization, while staying incredibly light and stable.
-We want you to feel confident that the code behind your (or your clients) websites is stable, secure and optimized.
+We want you to feel confident that the code behind your (or your clients) websites is stable, secure and optimized. Here you can fing 2 free bludit theme (Andi & Emona) [themes.blog7.org](https://themes.blog7.org/)
 
 ### LESS THAN 30KB
 Your sites should start with the smallest footprint possible. That’s why a default install with our theme is less than 30kb.
